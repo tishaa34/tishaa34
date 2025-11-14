@@ -64,18 +64,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tishaa34" height="170" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=tishaa34&show_icons=true" height="170"/>
-</p>
-
----
-
 ## 📬 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/tisha-dharani-1a30b2306">LinkedIn</a> |
