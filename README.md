@@ -1,81 +1,72 @@
-# 🌷 Tisha Dharani 🌷
-
+# 🌷 Tisha Dharani 🌷  
 ### ✨ Soft girl in tech • building apps that think smart & look pretty • ai • analytics • aesthetic storytelling 💗
 
-Hi! i'm tisha ✨  
-A soft & creative girl in tech who mixes **ai, data, and aesthetic ui** to build digital experiences that feel gentle, smart, and beautiful.  
-I love cute interfaces, clean dashboards, and anything that makes tech feel magical 🌸
+Hi! I'm Tisha — a soft & creative girl in tech who blends **ai**, **data**, and **aesthetic ui** into cute, intelligent digital experiences.  
+I love pastel vibes, pretty dashboards, clean ui, and anything that makes tech feel magical 🌸✨  
 
 ---
 
-## 🌸 ˗ˏˋ About me ˎˊ˗
-- 💗 soft girl exploring ai/ml & data  
-- 🌷 obsessed with cute ui and pink tech vibes  
-- 📊 love turning data into aesthetic stories  
-- 🎀 enjoy building pretty, interactive apps  
-- ✨ creative + curious + constantly growing  
+## 🌸  about me 
+- 💗 Soft girl exploring ai/ml + data analysis  
+- 🎀 Creating cute apps with aesthetic ui  
+- 📊 Turning raw data into pretty visual stories  
+- 🌷 Clean design • soft energy • creative coding  
+- ✨ Always learning, building & making things magical  
 
 ---
 
-## 🦋 ˗ˏˋ My soft tech stack ˎˊ˗
+## 🦋  My soft tech stack   
 
-### 💗 AI / ML
+### 💗 AI / ML  
 - sklearn models  
 - regression & classification  
-- tensorflow.js for gesture ai  
-- evaluation & metrics
+- tensorflow.js (gesture-based ai)  
+- metrics & evaluation  
 
-### 🌸 Data analysis & visualization
-- pandas & numpy  
+### 🌸 Data Analysis & Visualization  
+- pandas • numpy  
 - power bi dashboards  
+- insight crafting  
 - pretty data storytelling  
-- insight crafting ✨
 
-### 🎀 Frontend & Web development
-- react.js
-- html, css, tailwind
--  node.js
-- cute ui + soft animations 🌷
+### 🎀 Rrontend & Web development  
+- React.js
+- html • css • tailwind
+- Python
+- cute ui • soft animations • aesthetic layouts  
 
-### ✨ Tools i adore
-- github  
-- vs code  
-- jupyter notebook  
-- power bi  
+### ✨ Tools I adore  
+- Github  
+- VS code  
+- Jupyter notebook  
+- Power BI  
 
 ---
 
-## 🌷 ˗ˏˋ featured projects ˎˊ˗
+## 🌷  Featured projects   
 
-### 🎨 blockzie jr
-ai-powered visual programming with gesture controls.  
+### 🎨 Blockzie jr  
+AI-powered visual programming with gesture-controlled sprites.  
 **stack:** react.js • tensorflow.js • mediapipe  
-💗 cute, interactive, and creative.
+💗 cute • creative • interactive  
 
-### 📊 student performance predictor
-ml model predicting student outcomes.  
-**stack:** sklearn • pandas • numpy  
-🌸 simple + smart.
+### 📊 Student performance predictor  
+ML workflow predicting student outcomes.  
+**stack:** python • pandas • sklearn  
+🌸 Smart & simple analytics  
 
-### 📈 sales dashboard (power bi)
-aesthetic kpis & insights for business storytelling.  
-**stack:** dax • power bi  
-🦋 clean & pretty visuals.
-
----
-
-## 💗 ˗ˏˋ my github sparkles ˎˊ˗
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tishaa34&show_icons=true&theme=rose_pine)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tishaa34&theme=rose_pine)
+### 📈 Sales dashboard (Power BI)  
+Aesthetic business insights & kpis.  
+**stack:** power bi • dax  
+🦋 Pretty dashboards + storytelling  
 
 ---
 
-## 🎀 ˗ˏˋ Let’s connect ˎˊ˗
-- 🌸 linkedin: https://www.linkedin.com/in/tisha-dharani-1a30b2306  
-- 💗 github: https://github.com/tishaa34  
-- ✨ email: dharanitisha3@gmail.com  
+## 🎀  Let’s connect   
+- 🌸 Linkedin: https://www.linkedin.com/in/tisha-dharani-1a30b2306  
+- 💗 Github: https://github.com/tishaa34  
+- ✨ Email: dharanitisha3@gmail.com  
 
 ---
 
-🌷 *Thanks for visiting — sending you soft, aesthetic & magical tech vibes* 💗✨
+🌷 *Thank you for visiting — sending you soft, pastel & magical tech vibes* 💗✨  
