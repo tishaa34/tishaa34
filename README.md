@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tisha Dharani 👋</h1>
 
-<!--
-**tishaa34/tishaa34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 📊 Data Analyst  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build intelligent, user-friendly, and scalable applications — from AI-powered tools to full-stack web projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 About Me
+- 🎓 B.Tech in Computer Science (2021–2025)  
+- 💡 Interested in AI/ML, Full Stack Development, and Data Analytics  
+- 🧠 Learning: Power BI • TensorFlow.js • Flutter • SAP ABAP  
+- ✨ Passionate about building real-world products (Blockzie JR, ML apps, dashboards)
+
+---
+
+## 🚀 Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp" />
+</p>
+
+### **Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind" />
+</p>
+
+### **AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+### **Databases & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 **Blockzie JR – AI Powered Block Coding Platform**
+👉 A Scratch Jr–style visual coding platform with gesture control  
+🧠 Tech: React.js, TensorFlow.js, MediaPipe  
+🔗 Repo: https://github.com/tishaa34/Blockzie_JR  
+
+---
+
+### 🔹 **Student Performance Predictor (ML)**
+👉 Logistic Regression & Decision Tree model  
+📊 Accuracy, confusion matrix, preprocessing pipeline  
+🔗 Repo: https://github.com/Tishaa34/student-performance-predictor  
+
+---
+
+### 🔹 **Sales Dashboard (Power BI)**
+👉 Interactive BI dashboard with KPIs, filters, revenue insights  
+🔗 Repo: https://github.com/Tishaa34/sales-dashboard-powerbi  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tishaa34" height="170" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=tishaa34&show_icons=true" height="170"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/tisha-dharani-1a30b2306">LinkedIn</a> |
+  <a href="mailto:dharanitisha3@gmail.com">Email</a> |
+  <a href="https://github.com/tishaa34">GitHub</a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Always open to collaborations on AI, Web Dev, and Data Science.
