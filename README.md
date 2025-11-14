@@ -6,7 +6,7 @@ I love pastel vibes, pretty dashboards, clean ui, and anything that makes tech f
 
 ---
 
-## 🌸  about me 
+## 🌸  About me 
 - 💗 Soft girl exploring ai/ml + data analysis  
 - 🎀 Creating cute apps with aesthetic ui  
 - 📊 Turning raw data into pretty visual stories  
@@ -29,7 +29,7 @@ I love pastel vibes, pretty dashboards, clean ui, and anything that makes tech f
 - insight crafting  
 - pretty data storytelling  
 
-### 🎀 Rrontend & Web development  
+### 🎀 Frontend & Web development  
 - React.js
 - html • css • tailwind
 - Python
