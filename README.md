@@ -1,67 +1,76 @@
-# ✨ Tisha Dharani
+# 🌸 Tisha Dharani
 
-### crafting intelligent & aesthetic digital experiences • ai • analytics • visual storytelling 💗
+### ✨ crafting apps that think smart & look pretty • ai • analytics • visual storytelling • soft tech energy 💗
 
-Hi! I’m Tisha — I love creating apps that think smart, look pretty, and make data feel simple.  
-I work across AI/ML, frontend development, mobile development, and data visualization to build interactive, meaningful digital products.
-
----
-
-## 🌸 About Me
-- 🎓 B.Tech in Computer Science  
-- 🤖 Passionate about AI/ML, analytics & intelligent systems  
-- 🎨 Love building clean, aesthetic UIs  
-- 📊 Enjoy turning raw data into beautiful insights  
-- 📱 Creating apps, dashboards, and interactive experiences  
+hi! i'm tisha — a soft-tech girl who loves building intelligent apps with aesthetic vibes.  
+i mix ai, data, and design to create experiences that are both smart and beautiful.
 
 ---
 
-## 🧠 Skills
-
-### **AI / Machine Learning**
-- Regression, Classification  
-- TensorFlow.js, scikit-learn  
-- Model evaluation, data preprocessing  
-
-### **Data Analysis & Visualization**
-- Pandas, NumPy  
-- Power BI, dashboards  
-- Visual storytelling & insights  
-
-### **Frontend & Mobile**
-- React.js  
-- Flutter (Dart)  
-- HTML5, CSS3, Tailwind  
-
-### **Tools**
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebook  
-- Power BI  
+## 💗 about me
+- 🤍 love blending clean ui + smart logic  
+- 📊 enjoy turning data into pretty stories  
+- 🤖 exploring ai/ml & interactive experiences  
+- 🌷 soft girl in tech energy with creative ambitions  
+- 🎀 always learning + building + improving  
 
 ---
 
-## 💫 Featured Projects
+## ✨ what i do
 
-### **🎨 Blockzie JR — AI-powered visual programming**
-A Scratch-Jr inspired coding environment enhanced with gesture-based AI interactions.  
-**Tech:** React.js, TensorFlow.js, MediaPipe  
+### 🌸 ai / ml
+- classification, regression  
+- sklearn workflows  
+- model evaluation & metrics  
+- tensorflow.js (gesture-based ai)  
 
-### **📊 Student Performance Predictor**
-ML classification project identifying student performance patterns.  
-**Tech:** Python, Pandas, scikit-learn  
+### 💗 data analysis & storytelling
+- pandas, numpy  
+- power bi dashboards  
+- visual insights & narrative design  
 
-### **📈 Sales Dashboard (Power BI)**
-Interactive dashboard highlighting KPIs, filters, and insights.  
-**Tech:** Power BI, DAX, data modeling  
+### 🌷 frontend & app development
+- react.js  
+- flutter (dart)  
+- html, css, tailwind  
+- clean ui • soft animations • aesthetic layouts  
+
+### ✨ tools i love
+- git & github  
+- vs code  
+- jupyter notebook  
+- power bi  
 
 ---
 
-## 🌷 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/tisha-dharani-1a30b2306  
-- 🧑‍💻 GitHub: https://github.com/tishaa34  
-- 📧 Email: dharanitisha3@gmail.com  
+## 🦋 featured projects (my cute builds)
+
+### 🎨 blockzie jr — ai-powered visual programming
+a scratch-jr inspired environment with gesture-controlled sprites.  
+**stack:** react.js, tensorflow.js, mediapipe  
+
+### 📊 student performance predictor
+understanding student outcomes using ml workflows.  
+**stack:** python, pandas, sklearn  
+
+### 📈 sales dashboard (power bi)
+business kpis + aesthetic visuals.  
+**stack:** dax, power bi  
 
 ---
 
-💗 _thanks for stopping by — sending soft tech energy your way ✨_
+## 🌸 stats & streaks
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tishaa34&show_icons=true&theme=rose_pine)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tishaa34&theme=rose_pine)
+
+---
+
+## 💞 connect with me  
+- 🌷 linkedin: https://www.linkedin.com/in/tisha-dharani-1a30b2306  
+- 💗 github: https://github.com/tishaa34  
+- ✨ email: dharanitisha3@gmail.com  
+
+---
+
+🌸 *thanks for visiting — sending soft, aesthetic tech energy your way* 💗  
